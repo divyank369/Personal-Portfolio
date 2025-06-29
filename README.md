@@ -2,13 +2,6 @@
 
 A sleek and responsive personal developer portfolio website built using **HTML, CSS, and JavaScript**, featuring scroll animations, dark mode, glassmorphism, and modern UI elements.
 
----
-
-## 📸 Live Demo
-
-[Click Here to View Portfolio](https://divyank369.github.io/developer-portfolio)
-
----
 
 ## 🛠️ Tech Stack
 
