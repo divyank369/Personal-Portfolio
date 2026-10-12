@@ -1,33 +1,35 @@
-# 💼 Personal Portfolio
+# Personal Portfolio
 
-A sleek and responsive personal developer portfolio website built using **HTML, CSS, and JavaScript**, featuring scroll animations, dark mode, glassmorphism, and modern UI elements.
+A responsive personal portfolio website presenting an introduction, project highlights, education, achievements, and contact information.
 
+**Live site:** [divyank348.netlify.app](https://divyank348.netlify.app/)
 
-## 🛠️ Tech Stack
-##https://divyank348.netlify.app/
+## Features
+
+- About, portfolio, education, achievements, and contact sections
+- Responsive custom styling
+- Scroll-triggered animations using AOS
+- Project showcase cards
+- Contact form interface
+
+## Technology
 
 - HTML5
-- CSS3 (Custom CSS with AOS Animation)
-- JavaScript (Basic Interactivity)
+- CSS3
+- JavaScript
 - AOS (Animate On Scroll)
-- Responsive Web Design
-- GitHub Pages for hosting
 
----
+## Run Locally
 
-## ✨ Features
+No package installation or build step is required. Clone the repository and open `index.html` in a browser. You can also serve the repository root with a static web server.
 
-- Dark Mode & Light Mode toggle
-- Smooth scroll animations using AOS
-- Fully responsive layout for all devices
-- Custom CSS styling
-- Portfolio showcase section
-- Contact form integration
-- Education, Projects, and Achievements sections
-- Stylish horizontal dividers between sections
-- Social media links and animated buttons
+## Project Structure
 
----
+```text
+.
+├── index.html
+├── style.css
+└── README.md
+```
 
-## 📁 Folder Structure
-
+The page references image assets under `images/`; include that directory when running the page locally.
