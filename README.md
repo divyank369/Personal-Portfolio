@@ -1,33 +1,37 @@
-# 💼 Personal Portfolio
+# Personal Portfolio
 
-A sleek and responsive personal developer portfolio website built using **HTML, CSS, and JavaScript**, featuring scroll animations, dark mode, glassmorphism, and modern UI elements.
+A single-page developer portfolio built with HTML, CSS, and JavaScript. The site brings profile, project, education, achievement, and contact sections together in a responsive, animated layout.
 
+**Live site:** [divyank348.netlify.app](https://divyank348.netlify.app/)
 
-## 🛠️ Tech Stack
-##https://divyank348.netlify.app/
+## Highlights
+
+- Section-based layout with navigation for portfolio content
+- Responsive styling and custom visual effects
+- Scroll animations powered by AOS
+- Portfolio, education, achievements, and contact sections
+- Lightweight static site with no build step
+
+## Built With
 
 - HTML5
-- CSS3 (Custom CSS with AOS Animation)
-- JavaScript (Basic Interactivity)
-- AOS (Animate On Scroll)
-- Responsive Web Design
-- GitHub Pages for hosting
+- CSS3
+- Vanilla JavaScript
+- [AOS](https://michalsnik.github.io/aos/) for scroll animations
 
----
+## Run Locally
 
-## ✨ Features
+Clone the repository and open `index.html` in a browser. If you use VS Code, the Live Server extension can serve the page locally.
 
-- Dark Mode & Light Mode toggle
-- Smooth scroll animations using AOS
-- Fully responsive layout for all devices
-- Custom CSS styling
-- Portfolio showcase section
-- Contact form integration
-- Education, Projects, and Achievements sections
-- Stylish horizontal dividers between sections
-- Social media links and animated buttons
+## Repository Layout
 
----
+```text
+.
+├── index.html   # Page structure and content
+├── style.css    # Site styling and responsive layout
+└── README.md
+```
 
-## 📁 Folder Structure
+## Before Publishing
 
+The page currently contains sample profile and project details. Replace those placeholders with your own information and ensure referenced images are present before using the site as a personal portfolio.
